@@ -1,4 +1,4 @@
-trying to add browserrefresh, with less sucess yet.
+trying to add browserrefresh, as I did for PM2
 
 
 # forever [![Build Status](https://secure.travis-ci.org/nodejitsu/forever.png)](http://travis-ci.org/nodejitsu/forever)
